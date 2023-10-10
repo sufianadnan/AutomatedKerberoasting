@@ -1,6 +1,7 @@
 # AutomatedKerberoasting
 
-A brief description of your project.
+Important Notice: This project is intended for educational purposes only. It is meant to serve as a learning resource and should be used responsibly and within the bounds of applicable laws and regulations.
+
 
 ## Table of Contents
 
