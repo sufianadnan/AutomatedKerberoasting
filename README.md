@@ -5,20 +5,6 @@
 
 I created this project as part of my final assignment during my first year in college. The assignment required us to demonstrate our understanding of 2 or 3 cyber attacks we had learned in class. In response, I developed an automated script that can execute multiple types of cyber attacks. I went above and beyond to create a comprehensive tool and received a perfect grade in a challenging course. I created this script after learning python for a few months, it is really rough and it will be updated soon to be more efficent and more trustworthy for social engineering attacks.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Scripts and Usage](#scripts-and-usage)
-  - [kerb2.bat and kerb2.ps1](#kerb2bat-and-kerb2ps1)
-  - [main.py](#mainpy)
-  - [obtainer.py](#obtainerpy)
-  - [systemsetup.bat and systemsetup.ps1](#systemsetupbat-and-systemsetupps1)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
-
 ### Attacks Included
 
 The script includes the following cyber attacks:
