@@ -27,10 +27,10 @@ The script includes the following cyber attacks:
 
 2. **System Infomation**: It captures all system information such as OS, Mac Address and Windows Key.
 
+3. **Silver Ticket Attack**
 
-## Scripts and Usage
 
-### kerb2.bat and kerb2.ps1
+
 
 #### Description
 
@@ -40,6 +40,10 @@ These scripts are related to Kerberoasting, a technique used to extract service 
 There is a prepacked EXE, this won't work anymore as the discord webhook is no longer valid, so edit the pastebin link in `main.py`. 
 
 #Demonstration Video
+[![Video Demo](https://youtu.be/Itbu5WucoeQ)
+
+
+
 
 
 ## Educational Purposes Only
