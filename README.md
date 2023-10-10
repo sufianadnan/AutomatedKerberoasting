@@ -43,6 +43,7 @@ There is a prepacked EXE, this won't work anymore as the discord webhook is no l
 
 [![IMAGE ALT TEXT HERE](https://repository-images.githubusercontent.com/139332812/5232a300-ab13-11ea-99c5-306a3c4bb741)](https://youtu.be/Itbu5WucoeQ)
 
+[![IMAGE ALT TEXT HERE](https://www.qomplx.com/content/images/2020/04/Silver_Ticket-1.png)](https://youtu.be/K7A0tdGSF18)
 
 
 
