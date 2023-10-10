@@ -40,7 +40,8 @@ These scripts are related to Kerberoasting, a technique used to extract service 
 There is a prepacked EXE, this won't work anymore as the discord webhook is no longer valid, so edit the pastebin link in `main.py`. 
 
 #Demonstration Video
-https://youtu.be/Itbu5WucoeQ
+
+[![IMAGE ALT TEXT HERE](https://repository-images.githubusercontent.com/139332812/5232a300-ab13-11ea-99c5-306a3c4bb741)](https://youtu.be/Itbu5WucoeQ)
 
 
 
