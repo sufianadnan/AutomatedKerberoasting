@@ -1,0 +1,1 @@
+.\Kerb.ps1 | Out-File -filepath ‘kerbout.txt’ -Width 8000
