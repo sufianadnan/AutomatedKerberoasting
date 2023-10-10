@@ -89,3 +89,13 @@ Explain how others can contribute to your project, whether through bug reporting
 ## License
 
 Specify the license under which your project is distributed. Include any licensing information, terms, and conditions.
+
+## Educational Purposes Only
+Important Notice: This project is intended for educational purposes only. It is meant to serve as a learning resource and should be used responsibly and within the bounds of applicable laws and regulations.
+
+No Unauthorized Use: Unauthorized or unethical use of this project, its scripts, or any related tools for malicious purposes is strictly prohibited. Respect the privacy and security of individuals and organizations.
+
+Legal and Ethical Responsibility: Users of this project are responsible for ensuring that their actions comply with local, national, and international laws and adhere to ethical standards. Any misuse of the project is the sole responsibility of the user.
+
+By using this project, you acknowledge that it is not intended for any harmful or malicious activities and that the project maintainers and contributors are not liable for any misuse or unauthorized use of the code or associated resources.
+
